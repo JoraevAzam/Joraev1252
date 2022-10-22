@@ -15,17 +15,13 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![Others](https://img.shields.io/badge/-Others-black?style=for-the-badge&logo=others)
 
+### Contacts:
 
+#### •E-mail: joraev.azam1252@gmail.com 
 
+#### •Phone: +998 90 314-38-08 
 
-Contacts:
-•E-mail: joraev.azam1252@gmail.com 
+#### •Telegram: @joraev_a 
 
-•Phone: +998 90 314-38-08 
+#### •LinkedIn: linkedin.com/in/azam-joraev
 
-•Telegram: @joraev_a 
-
-•LinkedIn: linkedin.com/in/azam-joraev
-
-
-Links
