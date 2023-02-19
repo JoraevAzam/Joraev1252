@@ -3,7 +3,7 @@
 
 ## Assalamu alaikum, Dears 👋
 
-### I'm a backend developer from Uzbekistan, specialized in web development
+### I'm a backend developer from Uzbekistan
 #### •🔭 Currently working freelance projects
 
 ### I'm good at:
@@ -19,9 +19,9 @@
 
 #### •E-mail: joraev.azam1252@gmail.com 
 
-#### •Phone: +998 90 314-38-08 
+#### •Phone: +998 99 314-38-08 
 
-#### •Telegram: @joraev_a 
+#### •Telegram: @joraev_azam
 
 #### •LinkedIn: linkedin.com/in/azam-joraev
 
